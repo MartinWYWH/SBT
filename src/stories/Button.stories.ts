@@ -53,9 +53,3 @@ export const Small: Story = {
   },
 };
 
-export const Tag: Story = {
-  args: {
-    primary: false,
-    label: "Button"
-  }
-};
